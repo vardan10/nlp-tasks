@@ -1,0 +1,36 @@
+{
+    "transcript":[
+        {
+            "name":"KEVIN",
+            "message":"Great. Let’s get started.We have been planning version 2 of our mobile apps and in the last week me and Rohan sat together and worked on the back log items as well as added a few new features to the sprint. I hope everyone has gone through the sprint plan and assigned tasks. So, Let’s quickly share updates on current tasks. Rohan, why don’t you go first."
+        },
+        {
+            "name":"Rohan",
+            "message":"Yes , sure kevin. So, I have picked up task 12 which is implementing login with google module in the iOS application. I’ll be exploring how to go about this task and find if there are any SDKs available to integrate single sign on. Kevin , any updates from the UX team regarding wireframes ?"
+        },
+        {
+            "name":"KEVIN",
+            "message":"Hmm.. no. The UX team is currently still working on the app screen design."
+        },
+        {
+            "name":"Rohan",
+            "message":"Okay. I’ll check what backend changes will be required for implementing this module and get back to you. I’ll send a mail to you kevin ,with the backend changes necessary."
+        },
+        {
+            "name":"KEVIN",
+            "message":"Oh okay. I wasn’t anticipating backend changes for this module. Yes , I’ll wait for you mail and intimate the backend team."
+        },
+        {
+            "name":"Rohan",
+            "message":"okay. Also kevin, as the website team has already implemented google login, can we have a quick call set up with them? It will be help us understand the google login feature better."
+        },
+        {
+            "name":"KEVIN",
+            "message":"Umm… that should be possible. I’ll make a note of this."
+        },
+        {
+            "name":"Rohan",
+            "message":"ok. I’ll get started with this task. That’s it from my end."
+        }
+    ]
+}
