@@ -49,8 +49,16 @@
             "message":"Alright. Thanks Rohan. John , why don’t you go next ?"
         },
         {
+            "name":"KEVIN",
+            "message":"Hi Kevin, I was working on task 24, which is credit card payment module in android. I am blocked with this task currently. Did the stake holders approve the new payment gateway? "
+        },
+        {
+            "name":"KEVIN",
+            "message":"Hmm… John, as I mentioned yesterday the stakeholders are a bit apprehensive about the licensing cost of the Stripe payment gateway you suggested. Mean while, I had a word with the website team and they claim that it’s possible to implement what they have done in android."
+        },
+        {
             "name":"John",
-            "message":"Hi Kevin, I went through the sprint plan. About task 17, google login module I’ll wait for Rohan to implement that in iOS application first. I’ll take up task 24 today which mentions implementing credit card payment in android application. I had worked on This task before and it seems fairly straight forward and I should be able to complete it fast."
+            "message":"What?? That’s impossible. I have checked it very well. There is no other way out. I have wasted a lot of time looking for this. It’s just not possible. Are they out of their mind ????"
         },
         {
             "name":"KEVIN",
