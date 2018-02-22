@@ -1,6 +1,18 @@
 {
     "transcript":[
         {
+            "name":"Rohan",
+            "message":"Hi Kevin, Good morning!"
+        },
+        {
+            "name":"KEVIN",
+            "message":"Hi Rohan, Good morning. Do we have everyone on the call?"
+        },
+        {
+            "name":"Rohan",
+            "message":" Yes. I have the complete off-shore mobile development team with me."
+        },
+        {
             "name":"KEVIN",
             "message":"Great. Let’s get started.We have been planning version 2 of our mobile apps and in the last week me and Rohan sat together and worked on the back log items as well as added a few new features to the sprint. I hope everyone has gone through the sprint plan and assigned tasks. So, Let’s quickly share updates on current tasks. Rohan, why don’t you go first."
         },
@@ -31,6 +43,46 @@
         {
             "name":"Rohan",
             "message":"ok. I’ll get started with this task. That’s it from my end."
+        },
+        {
+            "name":"KEVIN",
+            "message":"Alright. Thanks Rohan. John , why don’t you go next ?"
+        },
+        {
+            "name":"John",
+            "message":"Hi Kevin, I went through the sprint plan. About task 17, google login module I’ll wait for Rohan to implement that in iOS application first. I’ll take up task 24 today which mentions implementing credit card payment in android application. I had worked on This task before and it seems fairly straight forward and I should be able to complete it fast."
+        },
+        {
+            "name":"KEVIN",
+            "message":"That’s great. Have a look and let me know if you need anything. Moving on, Sagar tell me your updates."
+        },
+        {
+            "name":"Sagar",
+            "message":"Hi, I have gone through my tasks, I’ll be working on task 41 next, which mentions preparing a test case document for google login module in both applications. Kevin, I had some questions about this feature."
+        },
+        {
+            "name":"KEVIN",
+            "message":"yes Sagar, go ahead"
+        },
+        {
+            "name":"Sagar",
+            "message":"How do we handle the users who do not prefer google login? as in if they wish to stick to the earlier login style will there be an option to do that?"
+        },
+        {
+            "name":"KEVIN",
+            "message":"I see. That’s a good point Sagar. Rohan, do you have any suggestions for this?"
+        },
+        {
+            "name":"Rohan",
+            "message":"Hmmm.. I feel we could implement what Sagar suggested. Let’s keep an option for users to choose between old login style and google login."
+        },
+        {
+            "name":"KEVIN",
+            "message":"Okay. That should be fine.Any more updates?"
+        },
+        {
+            "name":"Sagar",
+            "message":"No.That’s all from my end."
         }
     ]
 }

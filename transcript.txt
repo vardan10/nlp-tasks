@@ -1,3 +1,9 @@
+P (Rohan- Project Lead): Hi Kevin, Good morning!
+
+C (Kevin- Client): Hi Rohan, Good morning. Do we have everyone on the call?
+
+P: Yes. I have the complete off-shore mobile development team with me.
+
 KEVIN: Great. Let’s get started.We have been planning version 2 of our mobile apps and in the last week me and Rohan sat together and worked on the back log items as well as added a few new features to the sprint. I hope everyone has gone through the sprint plan and assigned tasks. So, Let’s quickly share updates on current tasks. Rohan, why don’t you go first.
 
 Rohan: Yes , sure kevin. So, I have picked up task 12 which is implementing login with google module in the iOS application. I’ll be exploring how to go about this task and find if there are any SDKs available to integrate single sign on. Kevin , any updates from the UX team regarding wireframes ?
@@ -13,3 +19,13 @@ Rohan: okay. Also kevin, as the website team has already implemented google logi
 KEVIN: Umm… that should be possible. I’ll make a note of this.
 
 Rohan: ok. I’ll get started with this task. That’s it from my end. 
+
+KEVIN: Alright. Thanks Rohan. John , why don’t you go next ?
+
+John: Hi Kevin, I went through the sprint plan. About task 17, google login module I’ll wait for Rohan to implement that in iOS application first. I’ll take up task 24 today which mentions implementing credit card payment in android application. I had worked on This task before and it seems fairly straight forward and I should be able to complete it fast.
+
+KEVIN: That’s great. Have a look and let me know if you need anything. Moving on, Sagar tell me your updates.
+
+Sagar: Hi, I have gone through my tasks, I’ll be working on task 41 next, which mentions preparing a test case document for google login module in both applications. Kevin, I had some questions about this feature.
+
+KEVIN: yes Sagar, go ahead
