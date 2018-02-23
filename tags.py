@@ -15,7 +15,7 @@ def chopData(lastStopRecording,finished):
             msg = message['message'].encode("ascii", "ignore")
 
             # Start Regular expression
-            if not re.search(r"(task|issue)(.{0,8}| number) \d+", str(msg)) == None:
+            if not re.search(r"(defect|task|issue)(.{0,8}| number) \d+", str(msg.lower())) == None:
                 
                 if issueStart == -1:
                     issueStart = index

@@ -76,7 +76,7 @@ def chopData(lastStopRecording):
                 speaker = message['name']
 
             # Start Regular expression
-            if not re.search(r"(why dont you (go first|go next|start|begin)| tell me your updates)", str(msg)) == None:
+            if not re.search(r"(why dont you (go first|go next|start|begin)|(tell me|what are) your updates)|lets talk about your task|you are up next", str(msg.lower())) == None:
                 #print (re.search(r"(why dont you (go first|start|begin)| tell me your updates)", str(msg)))
                 if startRecording == -1:
                     startRecording = index
@@ -123,7 +123,7 @@ def getSpeakerTask(lastStopRecording):
     
     return wordsSpoken,lastStopRecording
 
-lastStopRecording = 1
+lastStopRecording = 0
 while True:
     wordsSpoken,lastStopRecording = getSpeakerTask(lastStopRecording-1)
 
