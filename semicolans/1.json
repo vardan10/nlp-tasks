@@ -1,0 +1,27 @@
+{
+    "transcript": "Four score and twenty",
+    "confidence": 0.97186122,
+    "words": [
+        {
+            "startTime": "1.300s",
+            "endTime": "1.400s",
+            "word": "Four"
+        },
+        {
+            "startTime": "1.400s",
+            "endTime": "1.600s",
+            "word": "score"
+        },
+        {
+            "startTime": "1.600s",
+            "endTime": "1.600s",
+            "word": "and"
+        },
+        {
+            "startTime": "1.600s",
+            "endTime": "1.900s",
+            "word": "twenty"
+        }
+    ],
+    "startTimestamp": 977443200
+}
